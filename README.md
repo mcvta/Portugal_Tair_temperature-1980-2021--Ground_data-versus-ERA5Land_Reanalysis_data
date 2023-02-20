@@ -1,9 +1,9 @@
 # Portugal air temperature (1980-2021) ground data versus ERA5Land Reanalysis data
 
-This repository includes 15 datasets of mean daily air temperature obtained from 94 meteorological stations located in Portugal mainland (SNIRH, 2022) and the corresponding datasets from the ERA5-Land reanalysis (Muñoz Sabater 2019; Muñoz Sabater 2021). The ERA5-Land datasets were corrected with 15 different lapse rates, ranging from 0 ºC to 7ºC (0.5 ºC step) to adjust air temperature for the altitudes differences. Considering the results obtained, a LR value of -2.0 ºC/1000 m was the final choice to evaluate the ERA5-L datasets accuracy.
+This repository includes 15 datasets of mean daily air temperature obtained from 94 meteorological stations located in Portugal mainland (SNIRH, 2022) and the corresponding datasets from the ERA5-Land reanalysis (Muñoz Sabater 2019; Muñoz Sabater 2021). These datasets were considered for the development the following study: Almeida, M.C. and Coelho P.S., 2023: A first assessment of ERA5-Land reanalysis air temperature over Portugal mainland. The ERA5-Land datasets were corrected with 15 different lapse rates, ranging from 0 ºC to 7ºC (0.5 ºC step) to adjust air temperature for the altitudes differences. Considering the results obtained, a LR value of -2.0 ºC/1000 m was the final choice to evaluate the ERA5-L datasets accuracy.
 
 
-These datasets were considered for the development the following study: Almeida, M.C. and Coelho P.S., 2023: A first assessment of ERA5-Land reanalysis air temperature over Portugal mainland.
+
 
 
 ## References
