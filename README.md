@@ -6,7 +6,8 @@ This repositores includes 15 datasets of mean daily air temperature obtained fro
 The results of this study are described in the following manuscript: Almeida, M.C. and Coelho P.S., 2023: A first assessment of ERA5-Land reanalysis air temperature over Portugal mainland.
 
 
-References
+## References
+
 SNIRH, 2022: Water Resources Information System, accessed 25 October 2022, https://snirh.apambiente.pt/.
 Muñoz-Sabater, J., 2019: ERA5-Land hourly data from 1981 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), accessed 14 December 2022), doi:10.24381/cds.e2161bac.
 Muñoz-Sabater, J., 2021: ERA5-Land hourly data from 1950 to 1980. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), accessed 14 December 2022, doi:10.24381/cds.e2161bac.
